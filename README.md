@@ -1,7 +1,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1> Hey there! 👋 </h1>
+      <h2> Hey there! 👋 </h2>
     </summary>
   </ul>
 </div>
