@@ -1,4 +1,6 @@
-## Hi, I'm Brandon! 👨🏻‍💻👨🏻‍🔬🧪
+## Hey there! 👋
+
+I'm Brandon, a student at the University of Waterloo studying Biomedical Engineering. 👨🏻‍💻👨🏻‍🔬🧪
 
 <!--
 **bzzling/bzzling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
