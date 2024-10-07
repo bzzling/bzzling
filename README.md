@@ -1,4 +1,10 @@
-# Hey there! 👋
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Hey there! 👋 </h1>
+    </summary>
+  </ul>
+</div>
 
 I'm Brandon, a student at the University of Waterloo studying Biomedical Engineering. 👨🏻‍💻👨🏻‍🔬🧪
 
