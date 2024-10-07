@@ -1,4 +1,4 @@
-Hey there! 👋 
+<h1> Hey there! 👋 </h1>
 
 I'm Brandon, a student at the University of Waterloo studying Biomedical Engineering. 👨🏻‍💻👨🏻‍🔬🧪
 
