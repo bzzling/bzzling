@@ -2,6 +2,8 @@
 
 I'm Brandon, a Biomedical Engineering student @ the University of Waterloo. 👨🏻‍💻👨🏻‍🔬🧪
 
+Connect with me on LinkedIn: https://www.linkedin.com/in/brandonl1ng/
+
 <!--
 **bzzling/bzzling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
