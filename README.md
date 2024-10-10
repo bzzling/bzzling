@@ -3,6 +3,16 @@
 I'm Brandon, a Biomedical Engineering student @ the University of Waterloo. 👨🏻‍💻👨🏻‍🔬🧪
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/brandonl1ng/
+Get in touch: b5ling@uwaterloo.ca 📧
+
+### Languages
+
+Python, C++, Swift, JavaScript, TypeScript
+
+### Technologies
+
+Postgres, PyTorch, TensorFlow, Angular, MySQL
+
 
 <!--
 **bzzling/bzzling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
