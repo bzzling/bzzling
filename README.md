@@ -11,7 +11,7 @@ Python, C++, Swift, JavaScript, TypeScript
 
 ### Technologies
 
-PyTorch, TensorFlow pandas, NumPy, Matplotlib, postgreSQL, Angular
+PyTorch, TensorFlow, pandas, NumPy, Matplotlib, postgreSQL, Angular
 
 
 <!--
