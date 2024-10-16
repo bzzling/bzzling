@@ -7,7 +7,7 @@ Get in touch: b5ling@uwaterloo.ca
 
 ### Languages
 
-Python, C++, Swift, JavaScript, TypeScript
+Python, C++, C, Swift, JavaScript, TypeScript
 
 ### Technologies
 
