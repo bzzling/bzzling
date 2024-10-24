@@ -2,8 +2,8 @@
 
 I'm Brandon, a Biomedical Engineering student @ the University of Waterloo. 👨🏻‍💻👨🏻‍🔬🧪
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/brandonl1ng/
-Get in touch: b5ling@uwaterloo.ca
+Connect with me on LinkedIn: https://www.linkedin.com/in/brandonl1ng/ \
+Get in touch: b5ling@uwaterloo.ca \
 Fun fact: I love classical music and I play the violin! 🎻
 
 
