@@ -1,4 +1,4 @@
-### Hey there! 👋
+## Hey there! 👋
 
 I'm Brandon, a Biomedical Engineering student @ the University of Waterloo. 👨🏻‍💻👨🏻‍🔬🧪
 
