@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Brandon, a Biomedical Engineering student @ the University of Waterloo. 👨🏻‍💻👨🏻‍🔬🧪
+I'm Brandon, a Biomedical Engineering student @ the University of Waterloo exploring the world of software. 👨🏻‍💻👨🏻‍🔬🧪
 
 Feel free to contact me at brandonling22@gmail.com or on LinkedIn [@brandonl1ng](https://www.linkedin.com/in/brandonl1ng/).
 
