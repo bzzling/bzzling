@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Brandon, a Biomedical Engineering student @ the University of Waterloo exploring everything the world has to offer. 👨🏻‍💻👨🏻‍🔬🧪
+I'm Brandon, a biomedical engineering student @ the University of Waterloo exploring everything the world has to offer. 👨🏻‍💻👨🏻‍🔬🧪
 
 ### Contact me:
 Website: [brandonling.me](https://www.brandonling.me/) \
