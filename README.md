@@ -5,5 +5,5 @@ I'm Brandon, a first year biomedical engineering student at UWaterloo exploring 
 ### Contact me:
 Website: [brandonling.me](https://www.brandonling.me/) \
 LinkedIn: [@brandonl1ng](https://www.linkedin.com/in/brandonl1ng/) \
-Email: brandon.ling@uwaterloo.ca
+Email: b5ling@uwaterloo.ca
 
