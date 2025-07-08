@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Brandon, a first year biomedical engineering student at UWaterloo. 👨🏻‍💻👨🏻‍🔬🧪
+I'm Brandon, an engineering student at UWaterloo.
 
 ### Contact me:
 Website: [brandonling.me](https://www.brandonling.me/) \
