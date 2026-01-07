@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Brandon, an engineering student at UWaterloo.
+I'm Brandon, a CS student at UWaterloo.
 
 ### Contact me:
 Website: [brandonling.me](https://www.brandonling.me/) \
